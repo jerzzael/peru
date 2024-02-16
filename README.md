@@ -1,2 +1,5 @@
 #EXTM3U
-#EXTINF:0,https://latele-envivo.com/Embed/hbo/
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1457853,RESOLUTION=1728x720,FRAME-RATE=30.000,CODECS="avc1.640020,mp4a.40.2",VIDEO-RANGE=SDR
+index-v1-a1.m3u8?t=DZDhmE2bdNCQ4gblw7kZhG-A2Y41CwS8atzeYjYkk7U&s=1708046050&e=14400&f=52347138&node=delivery-node-kkcaaydxqcwtrsep.voe-network.net&i=38.25&sp=2500&asn=265691
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=53203,RESOLUTION=1728x720,CODECS="avc1.640020",URI="iframes-v1-a1.m3u8?t=DZDhmE2bdNCQ4gblw7kZhG-A2Y41CwS8atzeYjYkk7U&s=1708046050&e=14400&f=52347138&node=delivery-node-kkcaaydxqcwtrsep.voe-network.net&i=38.25&sp=2500&asn=265691",VIDEO-RANGE=SDR
